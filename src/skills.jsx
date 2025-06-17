@@ -14,6 +14,12 @@ const Skills=()=>{
                 </div>
             </div>
             <div className="card skills-card" style={{width: "18rem;"}}>
+                <img src="/Images/i17.png" className="card-img-top skills-card-img-top" alt="i7"/>
+                <div className="card-body skills-card-body">
+                    <p className="card-text skills-card-text">Bootstrap</p>
+                </div>
+            </div>
+            <div className="card skills-card" style={{width: "18rem;"}}>
                 <img src="/Images/i8.jpg" className="card-img-top skills-card-img-top" alt="i8"/>
                 <div className="card-body skills-card-body">
                     <p className="card-text skills-card-text">Javascript</p>
@@ -38,19 +44,31 @@ const Skills=()=>{
                 </div>
             </div>
             <div className="card skills-card" style={{width: "18rem;"}}>
+                <img src="/Images/i18.png" className="card-img-top skills-card-img-top" alt="i18"/>
+                <div className="card-body skills-card-body">
+                    <p className="card-text skills-card-text">SQL</p>
+                </div>
+            </div>
+            <div className="card skills-card" style={{width: "18rem;"}}>
+                <img src="/Images/i19.jpeg" className="card-img-top skills-card-img-top" alt="i11"/>
+                <div className="card-body skills-card-body">
+                    <p className="card-text skills-card-text">SQLite</p>
+                </div>
+            </div>
+            <div className="card skills-card" style={{width: "18rem;"}}>
                 <img src="/Images/i12.jpg" className="card-img-top skills-card-img-top" alt="i12"/>
                 <div className="card-body skills-card-body">
                     <p className="card-text skills-card-text">Mysql</p>
                 </div>
             </div>
             <div className="card skills-card" style={{width: "18rem;"}}>
-                <img src="/Images/i15.png" className="card-img-top skills-card-img-top" alt="i12"/>
+                <img src="/Images/i15.png" className="card-img-top skills-card-img-top" alt="i15"/>
                 <div className="card-body skills-card-body">
                     <p className="card-text skills-card-text">C</p>
                 </div>
             </div>
             <div className="card skills-card" style={{width: "18rem;"}}>
-                <img src="/Images/i16.jpg" className="card-img-top skills-card-img-top" alt="i12"/>
+                <img src="/Images/i16.jpg" className="card-img-top skills-card-img-top" alt="i16"/>
                 <div className="card-body skills-card-body">
                     <p className="card-text skills-card-text">C++</p>
                 </div>
